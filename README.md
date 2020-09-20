@@ -1,2 +1,2 @@
 # vinEvC_BasicC
-All the basic are in the this repository
+All the basics of C lang are in the this repository
