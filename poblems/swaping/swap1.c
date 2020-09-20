@@ -6,7 +6,6 @@ int main(){
     int c;
 
     printf("Initial: a = %d, b = %d \n", a, b);
-
     c = a;
     a = b;
     b = c;
