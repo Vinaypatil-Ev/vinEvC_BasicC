@@ -12,5 +12,4 @@ int main(){
     int result;
     result = count(num);
     printf("No of digits in %d are: %d", num, result);
-    
 }
