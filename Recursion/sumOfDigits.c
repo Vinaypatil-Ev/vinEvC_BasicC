@@ -11,7 +11,7 @@ int sumOfDigit(int num){
 }
 
 int main(){
-    int num = 98765;
+    int num = 100101000;
     int result;
     result = sumOfDigit(num);
     printf("%d", result);
