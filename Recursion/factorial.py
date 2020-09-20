@@ -4,6 +4,5 @@ def f(num):
     return num*f(num-1)
 
 fac = f(100)
+print(fac)
 print(len(str(fac)))
-print("hi")
-print(2**100)
