@@ -8,7 +8,7 @@ int factorial(int num){
 }
 
 int main(){
-    int num = 3;
+    int num = 19;
     int result;
     result = factorial(num);
     printf("%d", result);
